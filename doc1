@@ -1,0 +1,10 @@
+1. Install git: sudo apt-get install git
+
+2. Register on Github and verify email id provided
+3. To configure settings::
+git config --global user.name "Your Name Here"
+git config --global user.email "your_email@youremail.com"
+4. Create repository on Github – testRepo or perform git init on terminal to initialize empty repo locally
+5. mkdir ~/Repo1 will create Repo1 folder in home
+6. go to Repo1 on terminal and then git clone https://github.com/dhanashrik/testRepo.git this will clone the repo and create folder structure inside Repo1
+
